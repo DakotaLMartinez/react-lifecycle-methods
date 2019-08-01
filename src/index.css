@@ -105,3 +105,11 @@ button {
     display: inline-block;
     font-size: 16px;
 }
+
+.danger {
+  color: red
+}
+
+.success {
+  color: green
+}
